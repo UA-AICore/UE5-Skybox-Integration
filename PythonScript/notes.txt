@@ -1,0 +1,51 @@
+open -a "Visual Studio Code" "/Users/Shared/Epic Games/UE_5.4/Engine/Binaries/Mac/skybox_script_ue5.py"
+
+skybox_script_ue5.py
+
+--Futuristic and Sci-Fi Prompts
+
+"A sprawling futuristic city at night, illuminated by neon lights, under a starry sky with auroras."
+"A cyberpunk alley with holographic advertisements and rain-soaked streets, glowing in vibrant colors."
+"An alien planet with floating islands, two suns setting on the horizon, and a glowing crystal forest."
+"A massive space station orbiting Earth, with a view of the Milky Way galaxy and distant nebulae."
+"A robotic wasteland with towering mechs and rusting machinery scattered across a desert."
+
+--Nature and Fantasy Prompts
+
+"A serene mountain valley during sunrise, with mist rolling over a crystal-clear lake."
+"An enchanted forest glowing with bioluminescent plants and magical floating fireflies."
+"A mythical underwater city with coral-covered ruins, colorful marine life, and shafts of sunlight filtering through the water."
+"A vast desert with massive sand dunes, a crumbling ancient pyramid, and a radiant full moon."
+"A tranquil beach at sunset, with vibrant orange skies and waves gently crashing against the shore."
+
+--Post-Apocalyptic and Dystopian Prompts
+
+"A ruined cityscape overtaken by nature, with vines growing over skyscrapers and wildlife roaming free."
+"A dark, stormy wasteland with broken highways, abandoned vehicles, and distant lightning strikes."
+"A dystopian metropolis with towering skyscrapers, smog-filled skies, and faint glimmers of hope in the distance."
+"A barren ice-covered world with jagged glaciers and remnants of a long-lost civilization."
+"An abandoned space colony on the moon, with scattered debris and Earth visible in the sky."
+
+--Surreal and Abstract Prompts
+
+"A dreamlike floating island surrounded by endless clouds, with waterfalls cascading into the void."
+"An infinite mirror maze reflecting a vibrant, multicolored sky filled with shifting patterns."
+"A surreal landscape with giant, glowing mushrooms and a purple sky filled with swirling galaxies."
+"A futuristic utopia in the clouds, with golden towers and flying vehicles darting between them."
+"A kaleidoscopic cosmic scene with fractal-like patterns and a glowing central star."
+
+--Historical and Cultural Prompts
+
+"A bustling medieval village under a twilight sky, with a castle on the hill and lanterns lighting the streets."
+"An ancient Roman forum at dusk, with marble columns and statues glowing in the golden light."
+"A vibrant Japanese garden during cherry blossom season, with a peaceful koi pond and distant mountains."
+"An Arabian desert caravan crossing the dunes under a vivid sunset with a silhouetted city in the distance."
+"A grand Victorian-era cityscape at night, with gas lamps illuminating cobblestone streets."
+
+--Seasonal and Atmospheric Prompts
+
+"A cozy snow-covered village at night, with warm lights glowing from windows and stars in the sky."
+"An autumn forest with golden leaves falling, a setting sun casting long shadows, and a gentle breeze."
+"A tropical paradise with clear turquoise water, swaying palm trees, and a fiery sunset."
+"A thunderstorm rolling over a vast prairie, with dramatic lightning illuminating the dark sky."
+"A spring meadow filled with blooming flowers, butterflies, and a bright rainbow overhead."
